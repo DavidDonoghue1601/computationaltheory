@@ -8,8 +8,9 @@ This is my repository for the Computational Theory assessment (Winter 26/27). Th
 - `AGENTS.md` - the AI instructions file the assessment asks for
 - `.gitignore` - files git should ignore
 - `README.md` - this file
+- `requirements.txt` - the python packages needed to run the notebook
 
-I'll add `requirements.txt` and any other files as I go.
+
 
 ## Running the notebook
 

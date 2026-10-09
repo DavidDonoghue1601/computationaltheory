@@ -1,0 +1,6 @@
+# Numerical arrays.
+numpy
+# Jupyter notebook.
+notebook
+# Jupyter kernel for running notebooks in VS Code.
+ipykernel
